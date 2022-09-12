@@ -1,11 +1,10 @@
 {
   "expo": {
-    "name": "AppXbox",
-    "slug": "AppXbox",
+    "name": "groaning-pastry",
+    "slug": "snack-a0266b72-8628-466d-ac78-bb689d2234d5",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",

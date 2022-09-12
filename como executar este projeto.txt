@@ -1,0 +1,11 @@
+PASOS PARA EXECUTAR O CÓDIGO NO COMPUTADOR:
+
+1 Baixe os arquivos no seu computador.
+
+2º Abra a pasta do projeto no terminal e execute o comando abaixo.
+
+npm install
+
+3º Execute o aplicativo através do terminal:
+
+expo start
